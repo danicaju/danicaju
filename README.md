@@ -11,7 +11,7 @@ Me gusta aprender nuevas tecnologías y entender cómo funcionan las cosas desde
 - 💡 Me interesa la **programación en Java**, el **desarrollo de videojuegos** y la **arquitectura de computadores**.  
 - 🔧 Tengo experiencia en proyectos de **consola y GUI (Swing)**, así como en **ensamblador M68000** y **emuladores**.  
 - 🌍 Vivo en **Palma de Mallorca**.  
-- 🌱 Estoy mejorando mis conocimientos en **estructuras de datos**, **POO** y **buenas prácticas de diseño**.  
+- 📈 Busco mejorar mis habilidades en **estructuras de datos**, **POO** y **buenas prácticas de diseño**.  
 
 ---
 
@@ -19,8 +19,8 @@ Me gusta aprender nuevas tecnologías y entender cómo funcionan las cosas desde
 
 | Lenguajes | Herramientas | Otros |
 |------------|--------------|-------|
-| Java ☕ | NetBeans, IntelliJ IDEA | Programación orientada a objetos |
-| C / Assembly 🧩 | Git, GitHub | Simuladores y emuladores |
+| Java ☕ | NetBeans, Visual Studio Code | Programación orientada a objetos |
+| C / Assembly 🧩 | Visual Studio Code, Easy68K | Simuladores y emuladores |
 | Octave / MATLAB 📊 | Visual Studio Code | Matemáticas y lógica computacional |
 
 ---
@@ -35,14 +35,13 @@ Me gusta aprender nuevas tecnologías y entender cómo funcionan las cosas desde
 
 ## 🎯 Objetivos
 
-- Seguir mejorando mis habilidades en **Java y arquitectura de software**.  
+- Seguir aprendiendo y mejorando.
 - Desarrollar proyectos propios que combinen **lógica, diseño y creatividad**.  
-- Contribuir en proyectos **open source** y aprender de la comunidad.  
+- Contribuir a la comunidad **open source** y aprender de otros desarrolladores.   
 
 ---
 
 ## 📫 Contacto
 
-- ✉️ [danielcasado@example.com](mailto:danielcasado@example.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🧩 [GitHub](https://github.com/tuusuario)
+- ✉️ [Email](mailto:danicaju20@gmail.com)  
+- 🧩 [GitHub](https://github.com/danicaju)

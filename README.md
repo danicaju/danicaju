@@ -1,4 +1,4 @@
-### 👋 ¡Hola! Soy Daniel 👨‍💻  
+# 👋 ¡Hola! Soy Daniel 👨‍💻  
 
 Soy **estudiante de Ingeniería Informática en la UIB (Universitat de les Illes Balears)**, apasionado por la **programación, la lógica y el desarrollo de software**.  
 Me gusta aprender nuevas tecnologías y entender cómo funcionan las cosas desde dentro.  

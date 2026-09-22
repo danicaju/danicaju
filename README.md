@@ -1,12 +1,8 @@
-<h1 align="center">👋 ¡Hola! Soy Daniel Casado Juan 👨‍💻</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&height=50&lines=👋+¡Hola!+Soy+Daniel+Casado;Estudiante+de+Ingeniería+Informática;Apasionado+por+el+Desarrollo" alt="Typing SVG" />
+</h1>
 
 <h3 align="center">Estudiante de Ingeniería Informática en la UIB | Apasionado por el desarrollo de software y la lógica</h3>
-
-<p align="center">
-  <a href="https://github.com/danicaju">
-    <img src="https://komarev.com/ghpvc/?username=danicaju&label=Visitas al perfil&color=0e75b6&style=flat-square" alt="Visitas" />
-  </a>
-</p>
 
 <p align="center">
   Soy un apasionado de la programación, la lógica y el aprendizaje continuo. Me encanta entender cómo funcionan los sistemas informáticos desde dentro, experimentar con nuevas tecnologías y construir proyectos que supongan un reto.
@@ -35,20 +31,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <a href="https://github.com/danicaju">
-    <img src="https://github-readme-stats.vercel.app/api?username=danicaju&show_icons=true&theme=tokyonight&locale=es&hide_border=true" alt="Estadísticas de GitHub de Daniel" />
-  </a>
-  <br/>
-  <a href="https://github.com/danicaju">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicaju&layout=compact&theme=tokyonight&hide_border=true" alt="Top Lenguajes" />
-  </a>
 </p>
 
 ---

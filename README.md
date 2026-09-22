@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&height=50&lines=👋+¡Hola!+Soy+Daniel+Casado;Estudiante+de+Ingeniería+Informática;Apasionado+por+el+Desarrollo" alt="Typing SVG" />
-</h1>
-
 <h3 align="center">Estudiante de Ingeniería Informática en la UIB | Apasionado por el desarrollo de software y la lógica</h3>
 
 <p align="center">

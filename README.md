@@ -1,4 +1,4 @@
-<h3 align="center">Estudiante de Ingeniería Informática en la UIB | Apasionado por el desarrollo de software y la lógica</h3>
+<h3 align="center">Estudiante de Ingeniería Informática en la UIB | Apasionado por el desarrollo y la lógica</h3>
 
 <p align="center">
   Soy un apasionado de la programación, la lógica y el aprendizaje continuo. Me encanta entender cómo funcionan los sistemas informáticos desde dentro, experimentar con nuevas tecnologías y construir proyectos que supongan un reto.

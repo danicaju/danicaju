@@ -1,59 +1,104 @@
-<div align="center">
-
-# Daniel Casado Juan
-
-Estudiante de 3º de Ingeniería Informática en la Universitat de les Illes Balears (UIB).  
-Interesado en visión por computador, interacción persona-ordenador (HCI) y sistemas concurrentes.  
-Profesor particular de matemáticas para secundaria y bachillerato en Palma de Mallorca.
-
-[Correo](mailto:danicaju20@gmail.com) · [Web de clases](https://danicaju.github.io) · [GitHub](https://github.com/danicaju)
-
+<div align="right">
+  <strong>Español</strong> &bull; <a href="README.en.md">English</a>
 </div>
 
----
+<p align="center">
+  <img src="assets/banner.svg" alt="Daniel Casado Juan — Banner" width="100%" />
+</p>
 
-### Proyecto destacado: [IDEye](https://github.com/danicaju/IDEye)
+Estudiante de 3º de **Ingeniería Informática** en la [Universitat de les Illes Balears (UIB)](https://www.uib.cat/). Especial interés en **visión por computador**, **interacción persona-ordenador (HCI)** y **arquitectura de sistemas concurrentes**.
 
-Sistema de control visual para programar sin manos usando una cámara web convencional, sin sensores infrarrojos. Rastrea la mirada y detecta microgestos faciales (guiños y apertura de boca) para mover el cursor y escribir código. Incluye una interfaz flotante en PyQt6 que no roba el foco de la ventana activa, una extensión para VS Code conectada por WebSocket y más de 700 pruebas automatizadas en pytest.
+Compagino mis estudios de ingeniería con la docencia personalizada de **matemáticas para ESO y Bachillerato** en Palma de Mallorca.
 
-- **Stack:** `Python 3.10+` `MediaPipe` `OpenCV` `PyQt6` `WebSockets` `Pytest`
-- **Enlaces:** [Código en GitHub](https://github.com/danicaju/IDEye) · [Extensión para VS Code](https://github.com/danicaju/IDEye/tree/main/vscode-extension) · [Descargas v0.5.0](https://github.com/danicaju/IDEye/releases)
-
----
-
-### Otros proyectos
-
-| Proyecto | Descripción | Tecnologías |
-| :--- | :--- | :--- |
-| [RealTimeChat](https://github.com/danicaju/RealTimeChat) | Chat cliente-servidor multihilo con sockets TCP para comunicación bidireccional en tiempo real. | `Java` `Sockets TCP/IP` |
-| [Big-O-Runtime-Estimator](https://github.com/danicaju/Big-O-Runtime-Estimator) | Medición empírica de tiempos de ejecución de algoritmos para contrastar su complejidad asintótica teórica. | `Java` `Algoritmia` |
-| [MC68000-Practice](https://github.com/danicaju/MC68000-Peripheral-Access-Practice) | Control de periféricos, puertos y gestión de interrupciones mediante acceso directo a memoria. | `Ensamblador M68k` |
+<p align="left">
+  <a href="https://danicaju.github.io"><img src="https://img.shields.io/badge/Web_Docente-danicaju.github.io-38bdf8?style=flat-square&logo=googlechrome&logoColor=white" alt="Web Docente" /></a>
+  &nbsp;
+  <a href="mailto:danicaju20@gmail.com"><img src="https://img.shields.io/badge/Contacto-danicaju20@gmail.com-818cf8?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <a href="https://github.com/danicaju"><img src="https://img.shields.io/badge/GitHub-danicaju-238636?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
-### Stack tecnológico
+### 👁️ Proyecto Destacado: [IDEye (Vistax L2C Engine)](https://github.com/danicaju/IDEye)
 
-| Área | Tecnologías |
-| :--- | :--- |
-| **Lenguajes** | `Python` `Java` `C` `Ensamblador M68000` `Bash` |
-| **Visión e interfaz** | `OpenCV` `MediaPipe` `PyQt6` `NumPy` |
-| **Redes y concurrencia** | `Sockets TCP/IP` `WebSockets` `Multithreading` |
-| **Herramientas** | `Git` `Linux` `Pytest` `VS Code` |
+> **Look-To-Code (L2C) Engine:** Sistema de control visual para desarrollo de software manos libres y en silencio mediante visión artificial sobre cámara web convencional.
 
----
-
-### Idiomas
-
-- **Español y catalán:** Nativo
-- **Inglés:** C1 (lectura fluida de documentación técnica y comunicación)
-- **Alemán:** A2 (competencia básica)
-
----
-
-### Actividad en GitHub
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📷 Hardware Accesible &amp; Visión Artificial</h4>
+      <ul>
+        <li><b>Sensor Convencional:</b> Opera con cualquier cámara web estándar (<b>$0</b> en hardware adicional, sin sensores infrarrojos ni periféricos propietarios).</li>
+        <li><b>Pipeline Visual:</b> MediaPipe FaceMesh (478 puntos de referencia) y OpenCV para estimación híbrida de la mirada en tiempo real.</li>
+        <li><b>Operación Silenciosa:</b> Disparadores por microgestos faciales discretos (guiños diferenciados y apertura bucal); sin depender de comandos por voz ni captación de audio.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🖥️ Integración de Entorno &amp; Robustez</h4>
+      <ul>
+        <li><b>HUD 3×3 Flotante:</b> Interfaz gráfica no intrusiva desarrollada en PyQt6 con flags nativos <i>no-focus</i> para evitar sustraer el foco del editor activo.</li>
+        <li><b>Extensión VS Code:</b> Extensión complementaria conectada en tiempo real vía WebSocket (<code>ideye-vscode-bridge-0.5.0.vsix</code>).</li>
+        <li><b>Calidad de Código:</b> <b>702 tests automatizados</b> en pytest.</li>
+        <li><b>Licencia:</b> GNU AGPL v3 (software libre).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=danicaju&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=e2e8f0" height="145" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danicaju&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" height="145" alt="Lenguajes más usados" />
+  <a href="https://github.com/danicaju/IDEye"><b>Ver Código en GitHub</b></a> &bull;
+  <a href="https://github.com/danicaju/IDEye/tree/main/vscode-extension"><b>Extensión VS Code</b></a> &bull;
+  <a href="https://github.com/danicaju/IDEye/releases"><b>Descargar v0.5.0</b></a> &bull;
+  <a href="https://github.com/danicaju/IDEye/blob/main/LICENSE"><b>Licencia AGPL v3</b></a>
+</p>
+
+---
+
+### 🛠️ Stack Tecnológico
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,c,bash,opencv,qt,linux,git,github,vscode&theme=dark" alt="SkillIcons Stack" />
+</p>
+
+| Área | Tecnologías, Protocolos &amp; Herramientas |
+| :--- | :--- |
+| **Lenguajes** | `Python 3.10+` &bull; `Java` &bull; `C` &bull; `Bash` &bull; `Ensamblador Motorola 68000 (M68k)` |
+| **Visión e Interfaces** | `OpenCV` &bull; `MediaPipe (FaceMesh 478)` &bull; `PyQt6 (GUI no-focus)` &bull; `NumPy` |
+| **Redes y Concurrencia** | `Sockets TCP/IP` &bull; `WebSockets (Real-Time)` &bull; `Multithreading` &bull; `Sincronización y Exclusión Mutua` |
+| **Sistemas y Herramientas** | `Linux` &bull; `Git` &bull; `GitHub` &bull; `VS Code` &bull; `Pytest` &bull; `GCC / Make` |
+
+---
+
+### 📂 Otros Proyectos
+
+| Proyecto | Enfoque Técnico | Stack |
+| :--- | :--- | :--- |
+| [**RealTimeChat**](https://github.com/danicaju/RealTimeChat) | Arquitectura cliente-servidor multihilo basada en sockets TCP/IP para mensajería bidireccional en tiempo real con gestión concurrente de conexiones. | `Java` `Sockets TCP/IP` `Multithreading` |
+| [**Big-O-Runtime-Estimator**](https://github.com/danicaju/Big-O-Runtime-Estimator) | Medición empírica y contrastación de complejidad algorítmica asintótica con interfaces CLI y gráfica en Swing. | `Java` `Swing` `Algoritmia` |
+| [**MC68000-Practice**](https://github.com/danicaju/MC68000-Peripheral-Access-Practice) | Programación a bajo nivel para control de periféricos con puertos E/S mapeados en memoria y rutinas de servicio de interrupciones (ISR). | `Assembly M68k` `Bajo Nivel` `Hardware` |
+
+---
+
+### 🎓 Formación &amp; Idiomas
+
+- **Grado en Ingeniería Informática** (3º curso) — [Universitat de les Illes Balears (UIB)](https://www.uib.cat/)
+- **Docencia:** Clases particulares de matemáticas para Educación Secundaria (ESO) y Bachillerato en Palma de Mallorca ([danicaju.github.io](https://danicaju.github.io)).
+- **Idiomas:**
+  - **Español y Catalán:** Nativo / Materno
+  - **Inglés:** C1 (lectura técnica fluida y redacción profesional)
+  - **Alemán:** A2 (competencia básica)
+
+---
+
+### 📊 Actividad en GitHub
+
+<p align="center">
+  <a href="https://github.com/danicaju">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=danicaju&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=e2e8f0" height="150" alt="Estadísticas de GitHub de Daniel" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/danicaju">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danicaju&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" height="150" alt="Lenguajes más usados" />
+  </a>
 </p>

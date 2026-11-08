@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="README.md">Español</a> &bull; <strong>English</strong>
+  <a href="README.md">Español</a> &middot; <a href="README.en.md"><b>English</b></a>
 </div>
 
 <p align="center">
@@ -47,9 +47,9 @@ Alongside engineering coursework, I work as a private **mathematics tutor** for 
 </table>
 
 <p align="center">
-  <a href="https://github.com/danicaju/IDEye"><b>Source Code</b></a> &bull;
-  <a href="https://github.com/danicaju/IDEye/tree/main/vscode-extension"><b>VS Code Extension</b></a> &bull;
-  <a href="https://github.com/danicaju/IDEye/releases"><b>Download v0.5.0</b></a> &bull;
+  <a href="https://github.com/danicaju/IDEye"><b>Source Code</b></a> &middot;
+  <a href="https://github.com/danicaju/IDEye/tree/main/vscode-extension"><b>VS Code Extension</b></a> &middot;
+  <a href="https://github.com/danicaju/IDEye/releases"><b>Download v0.5.0</b></a> &middot;
   <a href="https://github.com/danicaju/IDEye/blob/main/LICENSE"><b>AGPL v3 License</b></a>
 </p>
 
@@ -58,15 +58,19 @@ Alongside engineering coursework, I work as a private **mathematics tutor** for 
 ### 🛠️ Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,bash,opencv,qt,linux,git,github,vscode&theme=dark" alt="SkillIcons Stack" />
+  <img src="https://skillicons.dev/icons?i=py,java,c,bash&theme=dark" alt="Programming Languages" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=opencv,qt&theme=dark" alt="Computer Vision & Interfaces" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Systems & Tooling" />
 </p>
 
 | Area | Technologies, Protocols &amp; Tools |
 | :--- | :--- |
-| **Languages** | `Python 3.10+` &bull; `Java` &bull; `C` &bull; `Bash` &bull; `Motorola 68000 Assembly (M68k)` |
-| **Vision &amp; Interfaces** | `OpenCV` &bull; `MediaPipe (FaceMesh 478)` &bull; `PyQt6 (No-Focus GUI)` &bull; `NumPy` |
-| **Networking &amp; Concurrency** | `TCP/IP Sockets` &bull; `WebSockets (Real-Time)` &bull; `Multithreading` &bull; `Synchronization &amp; Mutual Exclusion` |
-| **Systems &amp; Tooling** | `Linux` &bull; `Git` &bull; `GitHub` &bull; `VS Code` &bull; `Pytest` &bull; `GCC / Make` |
+| **Languages** | `Python 3.10+` &middot; `Java` &middot; `C` &middot; `Bash` &middot; `Motorola 68000 Assembly (M68k)` |
+| **Computer Vision &amp; Interfaces** | `OpenCV` &middot; `MediaPipe (FaceMesh 478)` &middot; `PyQt6 (No-Focus GUI)` &middot; `NumPy` |
+| **Networking &amp; Concurrency** | `TCP/IP Sockets` &middot; `WebSockets (Real-Time)` &middot; `Multithreading` &middot; `Synchronization &amp; Mutual Exclusion` |
+| **Systems &amp; Tooling** | `Linux` &middot; `Git` &middot; `GitHub` &middot; `VS Code` &middot; `Pytest` &middot; `GCC / Make` |
 
 ---
 

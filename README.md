@@ -1,5 +1,5 @@
 <div align="right">
-  <strong>Español</strong> &bull; <a href="README.en.md">English</a>
+  <a href="README.md"><b>Español</b></a> &middot; <a href="README.en.md">English</a>
 </div>
 
 <p align="center">
@@ -47,9 +47,9 @@ Compagino mis estudios de ingeniería con la docencia personalizada de **matemá
 </table>
 
 <p align="center">
-  <a href="https://github.com/danicaju/IDEye"><b>Ver Código en GitHub</b></a> &bull;
-  <a href="https://github.com/danicaju/IDEye/tree/main/vscode-extension"><b>Extensión VS Code</b></a> &bull;
-  <a href="https://github.com/danicaju/IDEye/releases"><b>Descargar v0.5.0</b></a> &bull;
+  <a href="https://github.com/danicaju/IDEye"><b>Ver Código en GitHub</b></a> &middot;
+  <a href="https://github.com/danicaju/IDEye/tree/main/vscode-extension"><b>Extensión VS Code</b></a> &middot;
+  <a href="https://github.com/danicaju/IDEye/releases"><b>Descargar v0.5.0</b></a> &middot;
   <a href="https://github.com/danicaju/IDEye/blob/main/LICENSE"><b>Licencia AGPL v3</b></a>
 </p>
 
@@ -58,15 +58,19 @@ Compagino mis estudios de ingeniería con la docencia personalizada de **matemá
 ### 🛠️ Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,bash,opencv,qt,linux,git,github,vscode&theme=dark" alt="SkillIcons Stack" />
+  <img src="https://skillicons.dev/icons?i=py,java,c,bash&theme=dark" alt="Lenguajes de Programación" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=opencv,qt&theme=dark" alt="Visión por Computador e Interfaces" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Sistemas y Herramientas" />
 </p>
 
 | Área | Tecnologías, Protocolos &amp; Herramientas |
 | :--- | :--- |
-| **Lenguajes** | `Python 3.10+` &bull; `Java` &bull; `C` &bull; `Bash` &bull; `Ensamblador Motorola 68000 (M68k)` |
-| **Visión e Interfaces** | `OpenCV` &bull; `MediaPipe (FaceMesh 478)` &bull; `PyQt6 (GUI no-focus)` &bull; `NumPy` |
-| **Redes y Concurrencia** | `Sockets TCP/IP` &bull; `WebSockets (Real-Time)` &bull; `Multithreading` &bull; `Sincronización y Exclusión Mutua` |
-| **Sistemas y Herramientas** | `Linux` &bull; `Git` &bull; `GitHub` &bull; `VS Code` &bull; `Pytest` &bull; `GCC / Make` |
+| **Lenguajes** | `Python 3.10+` &middot; `Java` &middot; `C` &middot; `Bash` &middot; `Ensamblador Motorola 68000 (M68k)` |
+| **Visión por Computador e Interfaces** | `OpenCV` &middot; `MediaPipe (FaceMesh 478)` &middot; `PyQt6 (GUI no-focus)` &middot; `NumPy` |
+| **Redes y Concurrencia** | `Sockets TCP/IP` &middot; `WebSockets (Real-Time)` &middot; `Multithreading` &middot; `Sincronización y Exclusión Mutua` |
+| **Sistemas y Herramientas** | `Linux` &middot; `Git` &middot; `GitHub` &middot; `VS Code` &middot; `Pytest` &middot; `GCC / Make` |
 
 ---
 

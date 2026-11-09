@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="README.md">English</a> &middot; <b>Español</b>
+  <a href="README.md">English</a> | <b>Español</b>
 </div>
 
 <p align="center">
@@ -47,9 +47,9 @@ Compagino mis estudios de ingeniería con la docencia personalizada de **matemá
 </table>
 
 <p align="center">
-  <a href="https://github.com/danicaju/IDEye"><b>Ver Código en GitHub</b></a> &middot;
-  <a href="https://github.com/danicaju/IDEye/tree/main/vscode-extension"><b>Extensión VS Code</b></a> &middot;
-  <a href="https://github.com/danicaju/IDEye/releases"><b>Descargar v0.5.0</b></a> &middot;
+  <a href="https://github.com/danicaju/IDEye"><b>Ver Código en GitHub</b></a> |
+  <a href="https://github.com/danicaju/IDEye/tree/main/vscode-extension"><b>Extensión VS Code</b></a> |
+  <a href="https://github.com/danicaju/IDEye/releases"><b>Descargar v0.5.0</b></a> |
   <a href="https://github.com/danicaju/IDEye/blob/main/LICENSE"><b>Licencia AGPL v3</b></a>
 </p>
 
@@ -67,10 +67,10 @@ Compagino mis estudios de ingeniería con la docencia personalizada de **matemá
 
 | Área | Tecnologías, Protocolos &amp; Herramientas |
 | :--- | :--- |
-| **Lenguajes** | `Python 3.10+` &middot; `Java` &middot; `C` &middot; `Bash` &middot; `Ensamblador Motorola 68000 (M68k)` |
-| **Visión por Computador e Interfaces** | `OpenCV` &middot; `MediaPipe (FaceMesh 478)` &middot; `PyQt6 (GUI no-focus)` &middot; `NumPy` |
-| **Redes y Concurrencia** | `Sockets TCP/IP` &middot; `WebSockets (Real-Time)` &middot; `Multithreading` &middot; `Sincronización y Exclusión Mutua` |
-| **Sistemas y Herramientas** | `Linux` &middot; `Git` &middot; `GitHub` &middot; `VS Code` &middot; `Pytest` &middot; `GCC / Make` |
+| **Lenguajes** | `Python 3.10+` | `Java` | `C` | `Bash` | `Ensamblador Motorola 68000 (M68k)` |
+| **Visión por Computador e Interfaces** | `OpenCV` | `MediaPipe (FaceMesh 478)` | `PyQt6 (GUI no-focus)` | `NumPy` |
+| **Redes y Concurrencia** | `Sockets TCP/IP` | `WebSockets (Real-Time)` | `Multithreading` | `Sincronización y Exclusión Mutua` |
+| **Sistemas y Herramientas** | `Linux` | `Git` | `GitHub` | `VS Code` | `Pytest` | `GCC / Make` |
 
 ---
 
@@ -86,7 +86,7 @@ Compagino mis estudios de ingeniería con la docencia personalizada de **matemá
 
 ### 🎓 Formación &amp; Idiomas
 
-- **Grado en Ingeniería Informática** (3º curso) &middot; [Universitat de les Illes Balears (UIB)](https://www.uib.cat/)
+- **Grado en Ingeniería Informática** (3º curso) | [Universitat de les Illes Balears (UIB)](https://www.uib.cat/)
 - **Docencia:** Clases particulares de matemáticas para Educación Secundaria (ESO) y Bachillerato en Palma de Mallorca ([danicaju.github.io](https://danicaju.github.io)).
 - **Idiomas:**
   - **Español y Catalán:** Nativo / Materno

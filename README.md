@@ -1,5 +1,5 @@
 <div align="right">
-  <b>English</b> &middot; <a href="README.es.md">Español</a>
+  <b>English</b> | <a href="README.es.md">Español</a>
 </div>
 
 <p align="center">
@@ -47,9 +47,9 @@ Alongside engineering coursework, I work as a private **mathematics tutor** for 
 </table>
 
 <p align="center">
-  <a href="https://github.com/danicaju/IDEye"><b>Source Code</b></a> &middot;
-  <a href="https://github.com/danicaju/IDEye/tree/main/vscode-extension"><b>VS Code Extension</b></a> &middot;
-  <a href="https://github.com/danicaju/IDEye/releases"><b>Download v0.5.0</b></a> &middot;
+  <a href="https://github.com/danicaju/IDEye"><b>Source Code</b></a> |
+  <a href="https://github.com/danicaju/IDEye/tree/main/vscode-extension"><b>VS Code Extension</b></a> |
+  <a href="https://github.com/danicaju/IDEye/releases"><b>Download v0.5.0</b></a> |
   <a href="https://github.com/danicaju/IDEye/blob/main/LICENSE"><b>AGPL v3 License</b></a>
 </p>
 
@@ -67,10 +67,10 @@ Alongside engineering coursework, I work as a private **mathematics tutor** for 
 
 | Area | Technologies, Protocols &amp; Tools |
 | :--- | :--- |
-| **Languages** | `Python 3.10+` &middot; `Java` &middot; `C` &middot; `Bash` &middot; `Motorola 68000 Assembly (M68k)` |
-| **Computer Vision &amp; Interfaces** | `OpenCV` &middot; `MediaPipe (FaceMesh 478)` &middot; `PyQt6 (No-Focus GUI)` &middot; `NumPy` |
-| **Networking &amp; Concurrency** | `TCP/IP Sockets` &middot; `WebSockets (Real-Time)` &middot; `Multithreading` &middot; `Synchronization &amp; Mutual Exclusion` |
-| **Systems &amp; Tooling** | `Linux` &middot; `Git` &middot; `GitHub` &middot; `VS Code` &middot; `Pytest` &middot; `GCC / Make` |
+| **Languages** | `Python 3.10+` | `Java` | `C` | `Bash` | `Motorola 68000 Assembly (M68k)` |
+| **Computer Vision &amp; Interfaces** | `OpenCV` | `MediaPipe (FaceMesh 478)` | `PyQt6 (No-Focus GUI)` | `NumPy` |
+| **Networking &amp; Concurrency** | `TCP/IP Sockets` | `WebSockets (Real-Time)` | `Multithreading` | `Synchronization &amp; Mutual Exclusion` |
+| **Systems &amp; Tooling** | `Linux` | `Git` | `GitHub` | `VS Code` | `Pytest` | `GCC / Make` |
 
 ---
 
@@ -86,7 +86,7 @@ Alongside engineering coursework, I work as a private **mathematics tutor** for 
 
 ### 🎓 Education &amp; Languages
 
-- **B.Sc. in Computer Engineering** (3rd year) &middot; [Universitat de les Illes Balears (UIB)](https://www.uib.cat/)
+- **B.Sc. in Computer Engineering** (3rd year) | [Universitat de les Illes Balears (UIB)](https://www.uib.cat/)
 - **Educator:** Mathematics private tutor for secondary and high school students in Palma de Mallorca ([danicaju.github.io](https://danicaju.github.io)).
 - **Languages:**
   - **Spanish &amp; Catalan:** Native / Bilingual

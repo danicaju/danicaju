@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/banner-en.svg" alt="Daniel Casado Juan — Banner" width="100%" />
+  <img src="assets/banner-en.svg" alt="Daniel Casado Juan - Banner" width="100%" />
 </p>
 
 3rd-year **Computer Engineering** undergraduate at [Universitat de les Illes Balears (UIB)](https://www.uib.cat/). Focused on **computer vision**, **human-computer interaction (HCI)**, and **concurrent systems architecture**.
@@ -78,15 +78,15 @@ Alongside engineering coursework, I work as a private **mathematics tutor** for 
 
 | Project | Technical Focus | Core Stack |
 | :--- | :--- | :--- |
-| [**RealTimeChat**](https://github.com/danicaju/RealTimeChat) | Multi-threaded client-server architecture built on TCP/IP sockets for bidirectional real-time messaging with thread-safe connection pooling. | `Java` `TCP/IP Sockets` `Multithreading` |
-| [**Big-O-Runtime-Estimator**](https://github.com/danicaju/Big-O-Runtime-Estimator) | Empirical benchmark and comparative runtime analyzer validating theoretical asymptotic algorithm complexity with CLI and Swing GUI interfaces. | `Java` `Swing` `Algorithms` |
+| [**RealTimeChat**](https://github.com/danicaju/RealTimeChat) | Real-time client-server messaging platform in Java 17, TCP sockets, JSON protocol, Thread Pool concurrency, and FlatLaf Dark GUI. | `Java 17` `TCP Sockets` `FlatLaf` `Thread Pool` |
+| [**Big-O-Runtime-Estimator**](https://github.com/danicaju/Big-O-Runtime-Estimator) | Scientific time complexity estimator in Java 17 with arbitrary-precision arithmetic, Ramanujan/Stirling asymptotics, and FlatLaf Dark GUI. | `Java 17` `Arbitrary-Precision` `Algorithms` `FlatLaf` |
 | [**MC68000-Practice**](https://github.com/danicaju/MC68000-Peripheral-Access-Practice) | Low-level systems programming for hardware peripheral control via memory-mapped I/O and interrupt service routines (ISR). | `M68k Assembly` `Low-Level` `Hardware` |
 
 ---
 
 ### 🎓 Education &amp; Languages
 
-- **B.Sc. in Computer Engineering** (3rd year) — [Universitat de les Illes Balears (UIB)](https://www.uib.cat/)
+- **B.Sc. in Computer Engineering** (3rd year) &middot; [Universitat de les Illes Balears (UIB)](https://www.uib.cat/)
 - **Educator:** Mathematics private tutor for secondary and high school students in Palma de Mallorca ([danicaju.github.io](https://danicaju.github.io)).
 - **Languages:**
   - **Spanish &amp; Catalan:** Native / Bilingual

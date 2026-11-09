@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/banner.svg" alt="Daniel Casado Juan — Banner" width="100%" />
+  <img src="assets/banner.svg" alt="Daniel Casado Juan - Banner" width="100%" />
 </p>
 
 Estudiante de 3º de **Ingeniería Informática** en la [Universitat de les Illes Balears (UIB)](https://www.uib.cat/). Especial interés en **visión por computador**, **interacción persona-ordenador (HCI)** y **arquitectura de sistemas concurrentes**.
@@ -78,15 +78,15 @@ Compagino mis estudios de ingeniería con la docencia personalizada de **matemá
 
 | Proyecto | Enfoque Técnico | Stack |
 | :--- | :--- | :--- |
-| [**RealTimeChat**](https://github.com/danicaju/RealTimeChat) | Arquitectura cliente-servidor multihilo basada en sockets TCP/IP para mensajería bidireccional en tiempo real con gestión concurrente de conexiones. | `Java` `Sockets TCP/IP` `Multithreading` |
-| [**Big-O-Runtime-Estimator**](https://github.com/danicaju/Big-O-Runtime-Estimator) | Medición empírica y contrastación de complejidad algorítmica asintótica con interfaces CLI y gráfica en Swing. | `Java` `Swing` `Algoritmia` |
+| [**RealTimeChat**](https://github.com/danicaju/RealTimeChat) | Plataforma cliente-servidor de mensajería en tiempo real en Java 17 sobre sockets TCP, protocolo JSON, concurrencia mediante Thread Pool y GUI FlatLaf Dark. | `Java 17` `Sockets TCP` `FlatLaf` `Thread Pool` |
+| [**Big-O-Runtime-Estimator**](https://github.com/danicaju/Big-O-Runtime-Estimator) | Estimador científico de complejidad temporal en Java 17 con aritmética de precisión arbitraria, asintóticas de Ramanujan/Stirling y GUI FlatLaf Dark. | `Java 17` `Precisión Arbitraria` `Algoritmia` `FlatLaf` |
 | [**MC68000-Practice**](https://github.com/danicaju/MC68000-Peripheral-Access-Practice) | Programación a bajo nivel para control de periféricos con puertos E/S mapeados en memoria y rutinas de servicio de interrupciones (ISR). | `Assembly M68k` `Bajo Nivel` `Hardware` |
 
 ---
 
 ### 🎓 Formación &amp; Idiomas
 
-- **Grado en Ingeniería Informática** (3º curso) — [Universitat de les Illes Balears (UIB)](https://www.uib.cat/)
+- **Grado en Ingeniería Informática** (3º curso) &middot; [Universitat de les Illes Balears (UIB)](https://www.uib.cat/)
 - **Docencia:** Clases particulares de matemáticas para Educación Secundaria (ESO) y Bachillerato en Palma de Mallorca ([danicaju.github.io](https://danicaju.github.io)).
 - **Idiomas:**
   - **Español y Catalán:** Nativo / Materno

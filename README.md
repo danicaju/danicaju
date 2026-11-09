@@ -1,108 +1,108 @@
 <div align="right">
-  <a href="README.md"><b>Español</b></a> &middot; <a href="README.en.md">English</a>
+  <b>English</b> &middot; <a href="README.es.md">Español</a>
 </div>
 
 <p align="center">
-  <img src="assets/banner.svg" alt="Daniel Casado Juan — Banner" width="100%" />
+  <img src="assets/banner-en.svg" alt="Daniel Casado Juan — Banner" width="100%" />
 </p>
 
-Estudiante de 3º de **Ingeniería Informática** en la [Universitat de les Illes Balears (UIB)](https://www.uib.cat/). Especial interés en **visión por computador**, **interacción persona-ordenador (HCI)** y **arquitectura de sistemas concurrentes**.
+3rd-year **Computer Engineering** undergraduate at [Universitat de les Illes Balears (UIB)](https://www.uib.cat/). Focused on **computer vision**, **human-computer interaction (HCI)**, and **concurrent systems architecture**.
 
-Compagino mis estudios de ingeniería con la docencia personalizada de **matemáticas para ESO y Bachillerato** en Palma de Mallorca.
+Alongside engineering coursework, I work as a private **mathematics tutor** for secondary and high school students in Palma de Mallorca.
 
 <p align="left">
-  <a href="https://danicaju.github.io"><img src="https://img.shields.io/badge/Web_Docente-danicaju.github.io-38bdf8?style=flat-square&logo=googlechrome&logoColor=white" alt="Web Docente" /></a>
+  <a href="https://danicaju.github.io"><img src="https://img.shields.io/badge/Teaching_Site-danicaju.github.io-38bdf8?style=flat-square&logo=googlechrome&logoColor=white" alt="Teaching Website" /></a>
   &nbsp;
-  <a href="mailto:danicaju20@gmail.com"><img src="https://img.shields.io/badge/Contacto-danicaju20@gmail.com-818cf8?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:danicaju20@gmail.com"><img src="https://img.shields.io/badge/Contact-danicaju20@gmail.com-818cf8?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   &nbsp;
   <a href="https://github.com/danicaju"><img src="https://img.shields.io/badge/GitHub-danicaju-238636?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
-### 👁️ Proyecto Destacado: [IDEye (Vistax L2C Engine)](https://github.com/danicaju/IDEye)
+### 👁️ Featured Project: [IDEye (Vistax L2C Engine)](https://github.com/danicaju/IDEye)
 
-> **Look-To-Code (L2C) Engine:** Sistema de control visual para desarrollo de software manos libres y en silencio mediante visión artificial sobre cámara web convencional.
+> **Look-To-Code (L2C) Engine:** Vision-based control system for hands-free and completely silent software development using a standard webcam.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>📷 Hardware Accesible &amp; Visión Artificial</h4>
+      <h4>📷 Accessible Hardware &amp; Vision Pipeline</h4>
       <ul>
-        <li><b>Sensor Convencional:</b> Opera con cualquier cámara web estándar (<b>$0</b> en hardware adicional, sin sensores infrarrojos ni periféricos propietarios).</li>
-        <li><b>Pipeline Visual:</b> MediaPipe FaceMesh (478 puntos de referencia) y OpenCV para estimación híbrida de la mirada en tiempo real.</li>
-        <li><b>Operación Silenciosa:</b> Disparadores por microgestos faciales discretos (guiños diferenciados y apertura bucal); sin depender de comandos por voz ni captación de audio.</li>
+        <li><b>Commodity Sensor:</b> Runs on any standard webcam (<b>$0</b> extra hardware cost, zero infrared sensors or proprietary eye trackers required).</li>
+        <li><b>Vision Pipeline:</b> MediaPipe FaceMesh (478 facial landmarks) and OpenCV for hybrid real-time gaze estimation.</li>
+        <li><b>Silent Operation:</b> Discrete facial microgesture triggers (independent winks and mouth opening) without voice commands or audio capture.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🖥️ Integración de Entorno &amp; Robustez</h4>
+      <h4>🖥️ Environment Integration &amp; Engineering</h4>
       <ul>
-        <li><b>HUD 3×3 Flotante:</b> Interfaz gráfica no intrusiva desarrollada en PyQt6 con flags nativos <i>no-focus</i> para evitar sustraer el foco del editor activo.</li>
-        <li><b>Extensión VS Code:</b> Extensión complementaria conectada en tiempo real vía WebSocket (<code>ideye-vscode-bridge-0.5.0.vsix</code>).</li>
-        <li><b>Calidad de Código:</b> <b>702 tests automatizados</b> en pytest.</li>
-        <li><b>Licencia:</b> GNU AGPL v3 (software libre).</li>
+        <li><b>Floating 3×3 HUD:</b> Non-intrusive PyQt6 overlay engineered with native <i>no-focus</i> flags to prevent stealing window focus from the active editor.</li>
+        <li><b>VS Code Companion:</b> Real-time WebSocket connection to an editor extension (<code>ideye-vscode-bridge-0.5.0.vsix</code>).</li>
+        <li><b>Code Quality:</b> <b>702 automated tests</b> passing in pytest.</li>
+        <li><b>License:</b> GNU AGPL v3 (copyleft open source).</li>
       </ul>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/danicaju/IDEye"><b>Ver Código en GitHub</b></a> &middot;
-  <a href="https://github.com/danicaju/IDEye/tree/main/vscode-extension"><b>Extensión VS Code</b></a> &middot;
-  <a href="https://github.com/danicaju/IDEye/releases"><b>Descargar v0.5.0</b></a> &middot;
-  <a href="https://github.com/danicaju/IDEye/blob/main/LICENSE"><b>Licencia AGPL v3</b></a>
+  <a href="https://github.com/danicaju/IDEye"><b>Source Code</b></a> &middot;
+  <a href="https://github.com/danicaju/IDEye/tree/main/vscode-extension"><b>VS Code Extension</b></a> &middot;
+  <a href="https://github.com/danicaju/IDEye/releases"><b>Download v0.5.0</b></a> &middot;
+  <a href="https://github.com/danicaju/IDEye/blob/main/LICENSE"><b>AGPL v3 License</b></a>
 </p>
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,bash&theme=dark" alt="Lenguajes de Programación" />
+  <img src="https://skillicons.dev/icons?i=py,java,c,bash&theme=dark" alt="Programming Languages" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=opencv,qt&theme=dark" alt="Visión por Computador e Interfaces" />
+  <img src="https://skillicons.dev/icons?i=opencv,qt&theme=dark" alt="Computer Vision & Interfaces" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Sistemas y Herramientas" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Systems & Tooling" />
 </p>
 
-| Área | Tecnologías, Protocolos &amp; Herramientas |
+| Area | Technologies, Protocols &amp; Tools |
 | :--- | :--- |
-| **Lenguajes** | `Python 3.10+` &middot; `Java` &middot; `C` &middot; `Bash` &middot; `Ensamblador Motorola 68000 (M68k)` |
-| **Visión por Computador e Interfaces** | `OpenCV` &middot; `MediaPipe (FaceMesh 478)` &middot; `PyQt6 (GUI no-focus)` &middot; `NumPy` |
-| **Redes y Concurrencia** | `Sockets TCP/IP` &middot; `WebSockets (Real-Time)` &middot; `Multithreading` &middot; `Sincronización y Exclusión Mutua` |
-| **Sistemas y Herramientas** | `Linux` &middot; `Git` &middot; `GitHub` &middot; `VS Code` &middot; `Pytest` &middot; `GCC / Make` |
+| **Languages** | `Python 3.10+` &middot; `Java` &middot; `C` &middot; `Bash` &middot; `Motorola 68000 Assembly (M68k)` |
+| **Computer Vision &amp; Interfaces** | `OpenCV` &middot; `MediaPipe (FaceMesh 478)` &middot; `PyQt6 (No-Focus GUI)` &middot; `NumPy` |
+| **Networking &amp; Concurrency** | `TCP/IP Sockets` &middot; `WebSockets (Real-Time)` &middot; `Multithreading` &middot; `Synchronization &amp; Mutual Exclusion` |
+| **Systems &amp; Tooling** | `Linux` &middot; `Git` &middot; `GitHub` &middot; `VS Code` &middot; `Pytest` &middot; `GCC / Make` |
 
 ---
 
-### 📂 Otros Proyectos
+### 📂 Other Projects
 
-| Proyecto | Enfoque Técnico | Stack |
+| Project | Technical Focus | Core Stack |
 | :--- | :--- | :--- |
-| [**RealTimeChat**](https://github.com/danicaju/RealTimeChat) | Arquitectura cliente-servidor multihilo basada en sockets TCP/IP para mensajería bidireccional en tiempo real con gestión concurrente de conexiones. | `Java` `Sockets TCP/IP` `Multithreading` |
-| [**Big-O-Runtime-Estimator**](https://github.com/danicaju/Big-O-Runtime-Estimator) | Medición empírica y contrastación de complejidad algorítmica asintótica con interfaces CLI y gráfica en Swing. | `Java` `Swing` `Algoritmia` |
-| [**MC68000-Practice**](https://github.com/danicaju/MC68000-Peripheral-Access-Practice) | Programación a bajo nivel para control de periféricos con puertos E/S mapeados en memoria y rutinas de servicio de interrupciones (ISR). | `Assembly M68k` `Bajo Nivel` `Hardware` |
+| [**RealTimeChat**](https://github.com/danicaju/RealTimeChat) | Multi-threaded client-server architecture built on TCP/IP sockets for bidirectional real-time messaging with thread-safe connection pooling. | `Java` `TCP/IP Sockets` `Multithreading` |
+| [**Big-O-Runtime-Estimator**](https://github.com/danicaju/Big-O-Runtime-Estimator) | Empirical benchmark and comparative runtime analyzer validating theoretical asymptotic algorithm complexity with CLI and Swing GUI interfaces. | `Java` `Swing` `Algorithms` |
+| [**MC68000-Practice**](https://github.com/danicaju/MC68000-Peripheral-Access-Practice) | Low-level systems programming for hardware peripheral control via memory-mapped I/O and interrupt service routines (ISR). | `M68k Assembly` `Low-Level` `Hardware` |
 
 ---
 
-### 🎓 Formación &amp; Idiomas
+### 🎓 Education &amp; Languages
 
-- **Grado en Ingeniería Informática** (3º curso) — [Universitat de les Illes Balears (UIB)](https://www.uib.cat/)
-- **Docencia:** Clases particulares de matemáticas para Educación Secundaria (ESO) y Bachillerato en Palma de Mallorca ([danicaju.github.io](https://danicaju.github.io)).
-- **Idiomas:**
-  - **Español y Catalán:** Nativo / Materno
-  - **Inglés:** C1 (lectura técnica fluida y redacción profesional)
-  - **Alemán:** A2 (competencia básica)
+- **B.Sc. in Computer Engineering** (3rd year) — [Universitat de les Illes Balears (UIB)](https://www.uib.cat/)
+- **Educator:** Mathematics private tutor for secondary and high school students in Palma de Mallorca ([danicaju.github.io](https://danicaju.github.io)).
+- **Languages:**
+  - **Spanish &amp; Catalan:** Native / Bilingual
+  - **English:** C1 (fluent technical reading, writing, and professional communication)
+  - **German:** A2 (elementary proficiency)
 
 ---
 
-### 📊 Actividad en GitHub
+### 📊 GitHub Activity
 
 <p align="center">
   <a href="https://github.com/danicaju">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=danicaju&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=e2e8f0" height="150" alt="Estadísticas de GitHub de Daniel" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=danicaju&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=e2e8f0" height="150" alt="Daniel's GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/danicaju">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danicaju&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" height="150" alt="Lenguajes más usados" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danicaju&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" height="150" alt="Top Languages" />
   </a>
 </p>

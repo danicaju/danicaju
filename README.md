@@ -1,3 +1,5 @@
+**English** · [Español](README.es.md)
+
 # Daniel Casado
 
 Computer Engineering student at the Universitat de les Illes Balears, in Palma de Mallorca.
